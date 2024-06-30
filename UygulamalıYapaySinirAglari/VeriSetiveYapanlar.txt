@@ -1,0 +1,3 @@
+Kodda digitTrain4DArrayData ve digitTest4DArrayData fonksiyonları MNIST veri setini yüklemek için kullanılıyor.MATLAB ortamında çalıştığımız için MATLABA özel veri seti kullandık.
+Ahmet Rasim Özcan 21040301060 Yazılım Mühendisliği	
+Fatih Parkın 21040301036 Yazılım Mühendisliği
